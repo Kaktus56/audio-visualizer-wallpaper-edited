@@ -1,0 +1,17 @@
+{
+  "AppVersion": "1.0.0.0",
+  "Title": "Simple Audio visualizer edited by Kaktus56",
+  "Thumbnail": "a3zlq1yz.jpg",
+  "Preview": "ub3mqljo.gif",
+  "Desc": "This Lively audio visualizer sample project by Dabjulmaros. His project decided to edit and add more settings Kaktus56",
+  "Author": "Dabjulmaros edited Kaktus56",
+  "License": "MIT",
+  "Contact": "https://github.com/Kaktus56/audio-visualizer-wallpaper-edited",
+  "Type": 1,
+  "FileName": "index.html",
+  "Arguments": " --audio",
+  "IsAbsolutePath": false,
+  "Id": null,
+  "Tags": null,
+  "Version": 0
+}
